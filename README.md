@@ -32,42 +32,39 @@
 
 <table>
   
-<tr><td>
+  <tr><td>
 
-### 🤺 About Me
+  ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、绘画、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;预测未来最好的方式，就是亲手创造它。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+  <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、绘画、旅行。</p>
+  <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+  <p>&emsp;&emsp;预测未来最好的方式，就是亲手创造它。</p>
+  <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</td></tr>
+  </td></tr>
 
-<tr><td>
+  <tr><td>
 
-### 🏢 Work Experience
+  ### 🏢 Work Experience
 
-<img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/xfusion.png" />
+  <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/xfusion.png" />
 
-- [超聚变数字技术有限公司](https://www.xfusion.com/) &emsp; 📌 2024-04-08 —— 至今
+  - [超聚变数字技术有限公司](https://www.xfusion.com/) &emsp; 📌 2024-04-08 —— 至今
 
   - 工作岗位：AI算法工程师
   - 工作内容：Agent智能体开发
   
-<div>&nbsp;</div>
+  <div>&nbsp;</div>
 
-</td></tr>
+  </td></tr>
 
 </table>
 
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<div align="center" >
+  <!-- ########################################## 分割 ########################################## -->
+  <img width="200%">
 
 ### 📈 Github Statistics
 
@@ -78,6 +75,53 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xin1&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+
+### 🔨 Skills and Tools
+
+<div align="center">
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
+    </a>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+    </a>
+</div>
+
+<div align="center">
+    </a>
+    <a href="hexo.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+    </a>
+    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
+    </a>
+    <a href="https://code-reference.com/c/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+    </a>
+    <a href="https://www.cplusplus.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+    </a>
+    <a href="https://code-reference.com/c/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original-wordmark.svg" alt="embeddedc" width="40" height="40" />
+    </a>
+</div>
+
 <!--  skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
