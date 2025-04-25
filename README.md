@@ -39,7 +39,7 @@
 <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、绘画、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;预测未来最好的方式，就是亲手创造它。</p>
-<p>&emsp;&emsp;<strong>The best way to predict the future is to invent it.        —— Alan Kay</strong></p>
+<p>&emsp;&emsp;<strong>The best way to predict the future is to invent it.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;—— Alan Kay</strong></p>
 
 </td></tr>
 
