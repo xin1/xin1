@@ -38,8 +38,8 @@
 
 <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、绘画、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;预测未来最好的方式，就是亲手创造它。</p>
+<p>&emsp;&emsp;<strong>The best way to predict the future is to invent it.        —— Alan Kay</strong></p>
 
 </td></tr>
 
@@ -53,13 +53,14 @@
 
   - 工作岗位：AI算法工程师
   - 工作内容：Agent智能体开发
+  
+<div>&nbsp;</div>
 
 </td></tr>
-<tr><td>
 
 </table>
 
-<div>&nbsp;</div>
+
 
 </div>
 
