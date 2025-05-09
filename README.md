@@ -28,13 +28,13 @@
 
 </div>
 
-#   Hello
+# 👋 Hello
 
 <table>
   
   <tr><td>
 
-  ###  About Me
+  ### 🤘 About Me
 
   <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、音乐、旅行。</p>
   <p>&emsp;&emsp;热爱嵌入式开发和计算机科学事业，希望能成为一名优秀的开发者。</p>
@@ -45,7 +45,7 @@
 
   <tr><td>
 
-  ###  Work Experience
+  ### 🤝 Work Experience
 
   <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/xfusion.png" />
 
