@@ -28,16 +28,16 @@
 
 </div>
 
-#  🙋‍♀️ Hello
+#   Hello
 
 <table>
   
   <tr><td>
 
-  ### 👩‍💻 About Me
+  ###  About Me
 
-  <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、绘画、旅行。</p>
-  <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+  <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、音乐、旅行。</p>
+  <p>&emsp;&emsp;热爱嵌入式开发和计算机科学事业，希望能成为一名优秀的开发者。</p>
   <p>&emsp;&emsp;预测未来最好的方式，就是亲手创造它。</p>
   <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
@@ -45,7 +45,7 @@
 
   <tr><td>
 
-  ### 🏢 Work Experience
+  ###  Work Experience
 
   <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/xfusion.png" />
 
