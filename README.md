@@ -49,7 +49,7 @@
 
   <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/xfusion.png" />
 
-  - [超聚变数字技术有限公司](https://www.xfusion.com/) &emsp; 📌 2024-04-08 —— 至今
+  - [超聚变数字技术有限公司](https://www.xfusion.com/) &emsp; 📌 2025-04-08 —— 至今
 
   - 工作岗位：AI算法工程师
   - 工作内容：Agent智能体开发
