@@ -28,13 +28,13 @@
 
 </div>
 
-# 👋 Hello
+# Hello
 
 <table>
   
-  <tr><td>
-
-  ### 🤘 About Me
+  <tr><td>  
+  
+ ###  About Me
 
   <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、音乐、旅行。</p>
   <p>&emsp;&emsp;热爱嵌入式开发和计算机科学事业，希望能成为一名优秀的开发者。</p>
@@ -44,15 +44,29 @@
   </td></tr>
 
   <tr><td>
+  
+  ###  Work Experience
+   <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/纽菲特.png" />
 
-  ### 🤝 Work Experience
+  - 纽菲特信息技术有限公司 &emsp; 📌 2026-08-15 —— 至今
+
+  - 工作岗位：AI后端工程师
+  - 工作内容：结合智能体开发与维护飞书小程序
+    <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/bytedance.png" />
+
+  - [字节跳动有限公司](https://www.bytedance.com/zh/) &emsp; 📌 2025-08-30 —— 11.20
+
+  - 实习岗位：AI后端工程师
+  - 实习内容：结合智能体开发与维护飞书小程序
+  
+  <div>&nbsp;</div>
 
   <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/xfusion.png" />
 
-  - [超聚变数字技术有限公司](https://www.xfusion.com/) &emsp; 📌 2025-04-08 —— 至今
+  - [超聚变数字技术有限公司](https://www.xfusion.com/) &emsp; 📌 2025-04-08 —— 08.15
 
-  - 工作岗位：AI算法工程师
-  - 工作内容：Agent智能体开发
+  - 实习岗位：AI算法工程师
+  - 实习内容：Agent智能体开发
   
   <div>&nbsp;</div>
 
@@ -65,16 +79,6 @@
 
   <!-- ########################################## 分割 ########################################## -->
   <img width="200%">
-
-### 📈 Github Statistics
-
-<div align="center">
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=xin1&count_private=true&show_icons=true" />
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xin1&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
-</div>
 
 ### 🔨 Skills and Tools
 
