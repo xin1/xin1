@@ -48,8 +48,7 @@
   ###  Work Experience
    <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/纽菲特.png" />
 
-  - 纽菲特信息技术有限公司 &emsp; 📌 2026-08-13 —— 至今
-
+  - 中科博派智能技术有限公司 &emsp; 📌 2026-08-13 —— 至今
   - 工作岗位：嵌入式软件工程师
   - 工作内容：研发具身智能数据手套
     <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/bytedance.png" />
@@ -58,8 +57,7 @@
 
   - 实习岗位：AI后端工程师
   - 实习内容：结合智能体开发与维护飞书小程序
-  
-  <div>&nbsp;</div>
+ 
 
   <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/xfusion.png" />
 
