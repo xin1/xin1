@@ -36,7 +36,7 @@
   
  ###  About Me
 
-  <p>&emsp;&emsp;嗨，你好，我是xin1。热爱编程、音乐、旅行。</p>
+  <p>&emsp;&emsp;你好，我是xin1。</p>
   <p>&emsp;&emsp;热爱嵌入式开发和计算机科学事业，希望能成为一名优秀的开发者。</p>
   <p>&emsp;&emsp;预测未来最好的方式，就是亲手创造它。</p>
   <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -48,10 +48,10 @@
   ###  Work Experience
    <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/纽菲特.png" />
 
-  - 纽菲特信息技术有限公司 &emsp; 📌 2026-08-15 —— 至今
+  - 纽菲特信息技术有限公司 &emsp; 📌 2026-08-13 —— 至今
 
-  - 工作岗位：AI后端工程师
-  - 工作内容：结合智能体开发与维护飞书小程序
+  - 工作岗位：嵌入式软件工程师
+  - 工作内容：研发具身智能数据手套
     <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/bytedance.png" />
 
   - [字节跳动有限公司](https://www.bytedance.com/zh/) &emsp; 📌 2025-08-30 —— 11.20
