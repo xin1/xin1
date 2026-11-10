@@ -4,21 +4,6 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);你好👋！我是xin1🙌!&center=true&size=25)](https://git.io/typing-svg)
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <!-- <a href="https://weibo.com/xinye1024"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp; -->
-    <!-- <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
-    <a href="https://space.bilibili.com/427111124"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=xin1&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <!-- <a href="https://wakatime.com/@xin1"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>--> 
-
-  </div>
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xin1/xin1/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -48,7 +33,7 @@
   ###  Work Experience
    <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/纽菲特.png" />
 
-  - 中科博派智能技术有限公司 &emsp; 📌 2026-08-13 —— 至今
+  - [中科博派智能技术有限公司](https://www.cobotai.hk/#top) &emsp; 📌 2026-08-13 —— 至今
   - 工作岗位：嵌入式软件工程师
   - 工作内容：研发具身智能数据手套
     <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/bytedance.png" />
