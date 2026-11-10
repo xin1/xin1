@@ -31,15 +31,17 @@
   <tr><td>
   
   ###  Work Experience
-   <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/纽菲特.png" />
+   <img align="right" width="98" src="https://github.com/xin1/xin1/blob/main/assets/images/cobotai.png" />
 
-  - [中科博派智能技术有限公司](https://www.cobotai.hk/#top) &emsp; 📌 2026-08-13 —— 至今
-  - 工作岗位：嵌入式软件工程师
-  - 工作内容：研发具身智能数据手套
-    <img align="right" width="98" src="https://cdn.jsdelivr.net/gh/xin1/xin1/assets/images/bytedance.png" />
+  - [科博智能有限公司](https://www.cobotai.hk/#top) &emsp; 📌 2026-08-13 —— 至今
+
+  - 工作岗位：嵌入式软件工程师  
+  - 工作内容：研发具身智能数据采集手套  
+
+   <img align="right" width="98" src="https://github.com/xin1/xin1/blob/main/assets/images/bytedance.png" />
 
   - [字节跳动有限公司](https://www.bytedance.com/zh/) &emsp; 📌 2025-08-30 —— 11.20
-
+   
   - 实习岗位：AI后端工程师
   - 实习内容：结合智能体开发与维护飞书小程序
  
@@ -48,7 +50,7 @@
 
   - [超聚变数字技术有限公司](https://www.xfusion.com/) &emsp; 📌 2025-04-08 —— 08.15
 
-  - 实习岗位：AI算法工程师
+  - 实习岗位：算法工程师
   - 实习内容：Agent智能体开发
   
   <div>&nbsp;</div>
